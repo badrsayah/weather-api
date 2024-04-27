@@ -1,0 +1,25 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "just trying some apis",
+  "main": "nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badrsayah/weather-api.git"
+  },
+  "keywords": [
+    "boom"
+  ],
+  "author": "badrsayah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badrsayah/weather-api/issues"
+  },
+  "homepage": "https://github.com/badrsayah/weather-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
